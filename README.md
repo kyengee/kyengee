@@ -22,12 +22,26 @@ Here are some ideas to get you started:
 <br><br>
 
 <h3>Skill</h3>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=css&logoColor=white"/><img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=white"/><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=css&logoColor=white"/><img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=css&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=css&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=css&logoColor=white"/>
+<div>
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=flat&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=css&logoColor=white"/>
+</div>
 
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyengee&layout=compact)](https://github.com/kyengee/github-readme-stats)
+
+
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyengee%2Fhit-counter&count_bg=%23AD69FF&title_bg=%232F1031&icon=&icon_color=%235A5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
