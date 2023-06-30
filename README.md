@@ -37,12 +37,6 @@ Here are some ideas to get you started:
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyengee&show_icons=true&theme=gruvbox) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyengee&layout=compact)](https://github.com/kyengee/github-readme-stats) 
-
-
-<br><br>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyengee%2Fhit-counter&count_bg=%23AD69FF&title_bg=%232F1031&icon=&icon_color=%235A5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
