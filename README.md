@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <p>안녕하세요. 퍼블리셔, 원선경입니다. 👩🏻<br>
 퍼블리셔에서 프론트엔드 개발자가 되기 위해 노력중입니다.</p>
 
-<br><br>
+<br>
 
 <h3>Skill</h3>
 <div>
@@ -35,16 +35,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=flat&logo=css&logoColor=white"/>
 </div>
 
-<br><br>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyengee%2Fhit-counter&count_bg=%23AD69FF&title_bg=%232F1031&icon=&icon_color=%235A5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-<br><br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyengee&show_icons=true&theme=gruvbox) <br>
 
-<br><br>
+<br>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyengee%2Fhit-counter&count_bg=%23AD69FF&title_bg=%232F1031&icon=&icon_color=%235A5A5A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
