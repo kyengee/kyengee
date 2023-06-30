@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3>Introduciton</h3>
+<p>안녕하세요. 퍼블리셔, 원선경입니다.<br>
+퍼블리셔에서 프론트엔드 개발자가 되기 위해 노력중입니다.</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyengee&layout=compact)](https://github.com/kyengee/github-readme-stats)
