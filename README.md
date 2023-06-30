@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=kyengee&fontSize=90)
 
-<h3>Introduciton</h3>
-<p>안녕하세요. 퍼블리셔, 원선경입니다. 👩🏻<br>
+<h3>👩🏻 Introduciton</h3>
+<p>안녕하세요. 퍼블리셔, 원선경입니다.<br>
 퍼블리셔에서 프론트엔드 개발자가 되기 위해 노력중입니다.</p>
 
 <br>
 
-<h3>Skill </h3>
+<h3>💬 Skill </h3>
 <div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=css&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css&logoColor=white"/>
