@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyengee&layout=compact)](https://github.com/kyengee/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyengee&show_icons=true&theme=gruvbox)
 
 
 <br><br>
